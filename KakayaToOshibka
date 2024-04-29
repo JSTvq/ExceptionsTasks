@@ -1,0 +1,8 @@
+public class KakayaToOshibka extends Exception{
+    public KakayaToOshibka() {
+    }
+    
+    public KakayaToOshibka(String message) {
+        super(message);
+    }
+}
